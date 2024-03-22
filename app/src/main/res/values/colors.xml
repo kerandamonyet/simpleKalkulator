@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calculator_button_background_color">#E0E0E0</color>
+    <color name="calculator_button_operator_background_color">#FFA726</color>
+    <color name="calculator_button_equal_background_color">#FF7043</color>
+    <color name="calculator_button_text_color">#FFFFFF</color>
+</resources>
